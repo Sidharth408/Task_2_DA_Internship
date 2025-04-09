@@ -5,22 +5,6 @@ Global Superstore Analysis
 
 * The Global Superstore is a retail dataset which contains an excel file with three sheets named as 'Orders', 'People' and 'Returns' over 4 years starting from 2012 till 2015 , covering orders of 147 countries around the world.
 
-# Table of contents
- - [PROJECT GOAL](https://readme.so/editor#:~:text=Show%20your%20support-,PROJECT%20GOAL,-The%20aim%20of)
- - [Project Motivation](https://readme.so/editor#:~:text=of%20the%20columns.-,PROJECT%20Motivation,-We%20all%20use)
- - [ETL TOOl - POWER BI](https://readme.so/editor#:~:text=for%20the%20analysis.-,ETL%20TOOl%20-%20POWER%20BI,-I%20used%20all)
- - [Dataset](https://readme.so/editor#:~:text=%E2%8F%B3-,Dataset,-Global%20Superstore%20dataset)
- - [Dataset- Description (USED)](https://readme.so/editor#:~:text=DATASET%20-%20Discription%20(USED))
- - [Data Cleaning and Preparation](https://readme.so/editor#:~:text=which%20customer%20belongs-,Data%20Cleaning%20and%20Preparation,-Made%20two%20new)
- - [Installation](https://readme.so/editor#:~:text=%F0%9F%96%A5%EF%B8%8F-,Installation,-Power%20BI%20Desktop)
- - [My Project](https://readme.so/editor#:~:text=Desktop%20installation%20link%20--,My%20Project,-Global%20Superstore%20-%20Power)
- - [Tools and Plots Used](https://readme.so/editor#:~:text=with%20variuos%20plots.-,Tools%20and%20Plots%20Used,-Author)
- - [Author](https://readme.so/editor#:~:text=and%20Plots%20Used-,Author,-%40Saurabhgupta301)
- - [Project Questions](https://readme.so/editor#:~:text=%40Saurabhgupta301-,PROJECT%20QUESTIONS,-(1)%20Find%20out)
- - [About Me](https://readme.so/editor#:~:text=World-Cup-Analysis-,%F0%9F%9A%80%20About%20Me,-I%27m%20a%20Data)
- - [Technical Skills](https://readme.so/editor#:~:text=%5D-,%F0%9F%9B%A0%20Technical%20Skills,-*%20Scripting%20Language%20-)
- - [Contribute](https://readme.so/editor#:~:text=Show%20your%20support-,Contribute,-Contributions%20are%20always)
- - [Show your support](https://readme.so/editor#:~:text=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80-,Show%20your%20support,-Give%20a%20%E2%AD%90%EF%B8%8F%20if)
 
 # PROJECT GOAL
 The aim of this project is to analyse the data with respect to the sales and profit after filtering some of the columns.
