@@ -23,7 +23,7 @@ Global Superstore dataset has been prepared in excel file with three sheets - Or
 * People  - 24 rows and 2 columns
 * Returns - 1079 rows and 3 columns
 
-* Dataset Link -  https://powerbidocs.com/wp-content/up...
+* Dataset Link - (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 * If u check the entries in the dataset , you will see that the store caters to 7 different geographical market segments and 3 major customer segments i.e. 'consumer', 'corporate' and 'Home office'.
 
 # DATASET - Discription (USED)
